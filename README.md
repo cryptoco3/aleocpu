@@ -14,6 +14,8 @@ ufw allow 4133
 ufw allow 3033
 ufw enable
 
+cntrl+c
+
 sudo apt install screen -y
 
 git clone https://github.com/AleoHQ/snarkOS.git --depth 1
